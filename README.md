@@ -11,4 +11,4 @@ Here are some good Python cryptography libraries:
 1. PyCryptodome (Lower-level): https://pycryptodome.readthedocs.io/en/latest/
 2. cryptography (Higher-level): https://cryptography.io/en/latest/
 
-This code was written as part of this video: https://youtu.be/v8JMNwOnZuE (Separate from the first one)
+This code was written as part of this video: https://youtu.be/-BWTS_1Nxao (Separate from the first one)
